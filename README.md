@@ -53,7 +53,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 ### :keyboard: Activity: Edit your file with headers
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
+# 1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
 1. Open the **pull requests** tab.
 1. Click **New pull request**, for the branches to compare, select `base: main` and `compare: start-markdown`.
 1. Click **Create pull request**.
@@ -74,7 +74,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+# Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
